@@ -94,7 +94,7 @@ class Constant {
 
   static ShippingAddress selectedLocation = ShippingAddress();
   static UserModel? userModel;
-  static const globalUrl = "https://Replace_your_domain/";
+  static const globalUrl = "https://secygo.hafrik.com/store/";
 
   static String mapAPIKey = "";
   static String placeHolderImage = "";
